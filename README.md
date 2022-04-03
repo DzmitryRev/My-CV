@@ -6,4 +6,4 @@
 
 Builded on vanilla JS, Scss, Webpack.
 
-### Design from Pinterest.com[Pinterest.com]
+### Design from [Pinterest.com][Pinterest.com]
